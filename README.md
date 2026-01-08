@@ -1,2 +1,2 @@
-A user manual for Scientific Calculator
+An user manual for Scientific Calculator
 https://vahagmardyan.github.io/Synopsys_Course_Project_User_Manual/
